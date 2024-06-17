@@ -1,0 +1,11 @@
+tensorflow
+keras
+numpy
+pandas
+fastapi
+uvicorn
+gunicorn
+jupyter
+keras_nlp
+cassandra-driver
+pyasyncore

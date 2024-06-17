@@ -1,0 +1,8 @@
+.venv/
+.env
+app/ignored/
+data_zips/
+spam_data_dir/
+notebooks/.ipynb_checkpoints
+__pycache__
+
